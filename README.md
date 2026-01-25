@@ -1,1 +1,1 @@
-These are juat basic entry level C programming programs.
+These are just basic entry level C programming programs.
